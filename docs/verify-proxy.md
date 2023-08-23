@@ -54,7 +54,7 @@ $ truffle-flattener BEP20UpgradeableProxy.sol > BEP20UpgradeableProxyFlattened.s
 
 ## Compile Proxy Contract
 
-- Create new contract proxy.sol and copy contract code from flattened `BEP20UpgradeableProxyFlattened.sol `.  Here is and [example](https://bscscan.com/address/0xA6Ec2Fe4F6040b188A926048f44c9A59Fca189d4#code)
+- Create new contract proxy.sol and copy contract code from flattened `BEP20UpgradeableProxyFlattened.sol `.  Here is an [example](https://bscscan.com/address/0xA6Ec2Fe4F6040b188A926048f44c9A59Fca189d4#code)
 - Compile the proxy contractClick on this button to switch to the compile page
   - Select “BEP20UpgradeableProxy” contract
   - Enable “Auto compile” and “optimization”Click “ABI” to copy the contract abi and save it.
