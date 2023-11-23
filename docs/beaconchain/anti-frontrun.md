@@ -2,6 +2,7 @@
 
 Front-running means someone can get prior knowledge of transactions from other beneficial owners via technology or market advantage, so that they can influence the price beforehand and result in economic gain, which usually brings loss or cost to others. It is a daunting question asked to both centralized and other decentralized exchanges (DEX). Especially on some DEX, front-running actually happens quite often, e.g. via gas or timestamp manipulations, or slow matching.
 
+
 There are several design points in Binance DEX that make front-running very difficult to execute.
 
 ## Fast Matching
