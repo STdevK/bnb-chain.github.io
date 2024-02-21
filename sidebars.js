@@ -306,7 +306,12 @@ const sidebars = {
       type: 'category',
       collapsed: true,
       label: 'Future Developments',
-      items:['dev-outlook-2022', 'dev-outlook/scaling',
+      items:[ {
+               type: 'link',
+               label: 'BSC Roadmap',
+               href: 'https://forum.bnbchain.org/t/bnb-chain-upgrades-mainnet/936',
+              },
+             'dev-outlook-2022', 'dev-outlook/scaling',
              {
               type: 'link',
               label: 'State Expiry',
