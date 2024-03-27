@@ -11,7 +11,7 @@ Cross-chain communication is the key foundation to allow the community to take a
 - Users can operate these in one UI and tooling ecosystem.
 
 ## Architecture Diagram
-![img](../../static/img/cross-transfer-architecture.png)
+![img](../../static/img/cross-transfer-architecture.png=250x250)
 
 A native cross chain communication protocol is developed between BC (BNB Beacon Chain) and BSC (BNB Smart Chain). It has the following key parts:
 
